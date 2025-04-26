@@ -146,5 +146,4 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework.authentication.SessionAuthentication',
     ],
-    'URL_FORMAT_OVERRIDE': None,
 }
